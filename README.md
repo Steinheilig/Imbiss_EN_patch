@@ -11,3 +11,19 @@ For optimal Ice/Coke/Cigarretes/Bratwurst/French Friese strategies and the core 
 
 [1] "Imbiss", PC Version von 1991, http://www.gameseller.de/mein-erstes-pc-spiel-imbiss-manager-testet-es-selbst/#more-250<br>
 [2] DOS Emulator, DosBox, https://www.dosbox.com/<br>
+
+
+## Binary file positions
+
+| Pos.      | Content      | 
+| :------------- | :----------- | 
+| 1C90  | Customer Interaction| 
+| 14C0  | Whole Sale Interaction| 
+| 3A30  | Final Comments |
+| 46E0  | Main Menu  | 
+| 48C0  | Main Page  | 
+| 5870  | Accounting |
+| 84C0  | Recipe (Erdbeer Reis) | 
+| 88F0  | Joke (Manta Witz)| 
+| 4AA80  | Days of the week| 
+| 4AAD0  | Goods Whole Sale||
