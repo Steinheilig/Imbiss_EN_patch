@@ -19,6 +19,9 @@ For optimal Ice/Coke/Cigarretes/Bratwurst/French Friese strategies and the core 
 | :------------- | :----------- | 
 | 1C90  | Customer Interaction| 
 | 14C0  | Whole Sale Interaction| 
+| 2600 | Manual |
+| 2E40 | Return DOS Menu|
+| 2EC0 | Hey-ho, let's go|
 | 3A30  | Final Comments |
 | 46E0  | Main Menu  | 
 | 48C0  | Main Page  | 
