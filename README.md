@@ -7,7 +7,7 @@ Patch written & only tested with the downloaded game version provided in [1].<br
 
 Note that it is not permitted to distribute/sell/etc. the patched game itself. All rights game/artwork reserved by T. Bauer the author of the game.<br>
 
-For optimal Ice/Coke/Cigarretes/Bratwurst/French Friese strategies and the core game mechanics check out my other git repository: https://github.com/Steinheilig/Imbiss<br>
+For optimal Ice/Coke/Cigarretes/Bratwurst/French Fries strategies and the core game mechanics check out my other git repository: https://github.com/Steinheilig/Imbiss<br>
 
 [1] "Imbiss", PC Version von 1991, http://www.gameseller.de/mein-erstes-pc-spiel-imbiss-manager-testet-es-selbst/#more-250<br>
 [2] DOS Emulator, DosBox, https://www.dosbox.com/<br>
