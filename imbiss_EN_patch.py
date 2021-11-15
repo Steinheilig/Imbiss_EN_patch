@@ -68,7 +68,7 @@ def patch_file(in_f,out_f,save_diff_fn):
     f.close()
     o.close()
    
-  
-#comp_files('C:\EigeneLokaleDaten\Imbiss\game\imbiss.exe','C:\EigeneLokaleDaten\Imbiss\game\imbiss2.exe','C:\EigeneLokaleDaten\Imbiss\game\patch_data.pkl')
-patch_file('C:\EigeneLokaleDaten\Imbiss\game\imbiss.exe','C:\EigeneLokaleDaten\Imbiss\game\imbiss_patch.exe','C:\EigeneLokaleDaten\Imbiss\game\patch_data.pkl')
+
+comp_files('C:\EigeneLokaleDaten\Imbiss\game\imbiss.exe','C:\EigeneLokaleDaten\Imbiss\game\imbiss2.exe','C:\EigeneLokaleDaten\Imbiss\patch\patch_data_r2.pkl')
+patch_file('C:\EigeneLokaleDaten\Imbiss\game\imbiss.exe','C:\EigeneLokaleDaten\Imbiss\game\imbiss_patch2.exe','C:\EigeneLokaleDaten\Imbiss\patch\patch_data_r2.pkl')
 
